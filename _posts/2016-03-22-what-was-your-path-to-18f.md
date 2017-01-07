@@ -94,7 +94,7 @@ _18F Design provide content, visual, and interactive design to the rest of the o
   </blockquote>
 </div>
 
-<div class="pquote">{{ "kate" | team_photo}}
+<div class="pquote">{{ "kate" | team_photo }}
   <blockquote>
   “My path to 18F was a somewhat circuitous one. After earning my MFA in fiction writing, I spent several years developing online fine-arts coursework. Following that, I joined a startup, where I was in charge of recruitment and educational strategy for a team of thousands of freelance writers. I left that startup to come work for 18F.
 
